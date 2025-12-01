@@ -626,7 +626,7 @@ def add_clock_face(
 import csv
 
 if __name__ == "__main__":
-    DATA_ROOT = "/Users/mredd/Desktop/clock_dataset"
+    DATA_ROOT = "/Users/abdulahimohamed/Desktop/clock_dataset"
     IMAGES_DIR = os.path.join(DATA_ROOT, "images")
     LABELS_CSV = os.path.join(DATA_ROOT, "labels.csv")
 
